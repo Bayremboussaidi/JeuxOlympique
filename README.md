@@ -1,16 +1,16 @@
 # JeuxOlympiq
 
-JeuxOlympiques2024 est une plateforme web intuitive pour gérer et accéder aux informations des Jeux Olympiques de 2024, facilitant ainsi la planification des événements, la navigation des sites olympiques, et l'interaction avec les données en temps réel.
+JeuxOlympiques2024 is an intuitive web platform designed to manage and access information related to the 2024 Olympic Games. It simplifies event planning, site navigation, and real-time data interaction.
 
-Tech Stack
-Ce projet utilise une stack moderne pour offrir performance, scalabilité, et réactivité :
+ Tech Stack
+This project leverages a modern and scalable technology stack to ensure high performance and responsiveness:
 
 Frontend: React.js + TailwindCSS
 
 Backend: Node.js + Express.js
 
-Base de données principale: MongoDB
+Primary Database: MongoDB
 
-Base de données graphe: Neo4j
+Graph Database: Neo4j
 
-Cache en mémoire: Redis
+In-Memory Cache: Redis
